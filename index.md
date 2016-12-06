@@ -16,23 +16,23 @@ Macroeconomist
 
 ## Currently
 
-I'm a macroeconomist at the [University of the Western Cape](http://www.uwc.ac.za/). Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm a macroeconomist at the [University of the Western Cape](http://www.uwc.ac.za/). My primary interest is in monetary economics with a focus on financial stability. I enjoy using R for econometric work and python for my computational needs.
 
 ## Employment
 
 `2015-`
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+__UWC__ Lecturer
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2013-16`
+__University of Stellenbosch__ PhD Economics (supervisors: Prof Stan du Plessis (primary), Dr Monique Reid and Prof Guangling Liu)
 
 `2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+__Simon Fraser University__ MA Economics
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`2010-11`
+__University of Stellenbosch__ BComm Honours Economics (_Cum Laude_)
 
 ## Presentations
 
