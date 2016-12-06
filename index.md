@@ -45,26 +45,26 @@ __University of Stellenbosch__ -- BA Social Dynamics (_Distinction_)
 `2017*`
 (**UWC**) ECO 739: Honours Mathematical Economics  
 (**UWC**) ECO 730: Honours Econometrics  
-(**UCT**) ECO 4200: Honours Macroeconomics
+(**UCT**) ECO 4200: Honours Macroeconomics  
 
 
 `2016`
 (**UWC**) ECO 739: Honours Mathematical Economics  
-(**UWC**) ECO 242: 2nd Year Econometrics  
+(**UWC**) ECO 242: 2nd Year Econometrics    
 
 `2015`
 (**UWC**)ECO 830: Masters Econometrics  
 (**SU**)  ECO 771: Honours Macroeconomics  
-(**UWC**) ECO 232: 2nd Year Macroeconomics  
+(**UWC**) ECO 232: 2nd Year Macroeconomics    
 
 `2014`
 (**UWC**) ECO 832: Masters Macroeconomics  
 (**UWC**) ECO 232: 2nd Year Macroeconomics  
-(**SU**)  ECO 114: 1st Year Microeconomics  
+(**SU**)  ECO 114: 1st Year Microeconomics   
 
 `2013`
 (**SU**)  ECO 114: 1st Year Microeconomics  
-(**IMM**) ECO I: 1st Year Macroeconomics  
+(**IMM**) ECO I: 1st Year Macroeconomics    
 
 
 
