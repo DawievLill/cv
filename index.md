@@ -21,12 +21,13 @@ I'm a macroeconomist at the [University of the Western Cape](http://www.uwc.ac.z
 ## Employment
 
 `2015-`
-__UWC__ Lecturer
+__University of the Western Cape__ Lecturer
 
 ## Education
 
 `2013-16`
-__University of Stellenbosch__ PhD Economics (supervisors: Prof Stan du Plessis (primary), Dr Monique Reid and Prof Guangling Liu)
+__University of Stellenbosch__ PhD Economics  
+(supervisors: Prof Stan du Plessis (primary), Dr Monique Reid and Prof Guangling Liu)
 
 `2011-12`
 __Simon Fraser University__ MA Economics
