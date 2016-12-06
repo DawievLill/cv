@@ -16,24 +16,28 @@ Macroeconomist
 
 ## Currently
 
-I'm a macroeconomist at the [University of the Western Cape](http://www.uwc.ac.za/). My primary interest is in monetary economics with a focus on financial stability. I enjoy using R for econometric work and python for my computational needs.
+I'm a macroeconomist at the [University of the Western Cape](http://www.uwc.ac.za/). My primary interest is in monetary economics with a focus on financial stability. I enjoy using **R** for econometric work and **python** for my computational needs.
 
 ## Employment
 
 `2015-`
-__University of the Western Cape__ Lecturer
+__University of the Western Cape__
+Lecturer
 
 ## Education
 
 `2013-16`
-__University of Stellenbosch__ PhD Economics  
-(supervisors: Prof Stan du Plessis (primary), Dr Monique Reid and Prof Guangling Liu)
+__University of Stellenbosch__ PhD Economics 
+(supervisors: Prof Stan du Plessis, Dr Monique Reid and Prof Guangling Liu)
+**Thesis title**: Balance sheet policies and financial stability: Central banking reimagined   
 
 `2011-12`
-__Simon Fraser University__ MA Economics
+__Simon Fraser University__
+MA Economics
 
 `2010-11`
-__University of Stellenbosch__ BComm Honours Economics (_Cum Laude_)
+__University of Stellenbosch__
+BComm Honours Economics (_Cum Laude_)
 
 ## Presentations
 
