@@ -27,7 +27,7 @@ Lecturer
 ## Education
 
 `2013-16`
-__University of Stellenbosch__ PhD Economics 
+__University of Stellenbosch__ PhD Economics
 (supervisors: Prof Stan du Plessis, Dr Monique Reid and Prof Guangling Liu)
 **Thesis title**: Balance sheet policies and financial stability: Central banking reimagined   
 
