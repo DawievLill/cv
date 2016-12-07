@@ -28,7 +28,7 @@ __University of the Western Cape__ -- Lecturer in Economics
 `2013-16`
 __University of Stellenbosch__ -- PhD Economics  
 (Supervisors: Prof Stan du Plessis, Dr Monique Reid and Prof Guangling Liu)  
-Thesis title: Balance sheet policies and financial stability: Central banking reimagined   
+Thesis title: *Balance sheet policies and financial stability: Central banking reimagined*   
 
 `2011-12`
 __Simon Fraser University__ -- MA Economics
